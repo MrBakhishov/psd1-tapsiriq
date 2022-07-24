@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,300;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10;
+}
+
+/* one css start */
+#one1{
+    margin-top: 20px;
+    background-color: #81cdd1;
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#one {
+    background-color: #fc6539;
+    width: 600px;
+    margin:auto;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+#one h2 {
+    font-size: 24px;
+    line-height: 45px;
+    color: #ffffff;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;;
+    text-align: center;
+    filter: drop-shadow(0.5px 0.866px 0px #cd502c);
+}
+
+
+#one form input{
+    width: 100%;
+    font-size: 24px;
+line-height: 45px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Open Sans";
+background-color: #ba3c24;
+outline: none;
+border: none;
+border-radius: 6px;
+margin: 20px    
+}
+
+#one2 {
+    
+    background-color: #b93b23;
+    width: 600px;
+    margin:auto;
+    border-radius: 5px;
+    height: auto;
+   
+}
+
+#one2 a {
+    font-size: 24px;
+    line-height: 45px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Open Sans";
+    margin-left: 20px;
+}
+#one2 button {
+    margin-left: 30px;
+    width: 250px;
+    height: 70px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 24px;
+    line-height: 45px;
+    color: #ba3c24;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+    
+}
